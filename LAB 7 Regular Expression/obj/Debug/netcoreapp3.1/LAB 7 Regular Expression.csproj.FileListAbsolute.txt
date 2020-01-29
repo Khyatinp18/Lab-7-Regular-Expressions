@@ -1,0 +1,11 @@
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\bin\Debug\netcoreapp3.1\LAB 7 Regular Expression.exe
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\bin\Debug\netcoreapp3.1\LAB 7 Regular Expression.deps.json
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\bin\Debug\netcoreapp3.1\LAB 7 Regular Expression.runtimeconfig.json
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\bin\Debug\netcoreapp3.1\LAB 7 Regular Expression.runtimeconfig.dev.json
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\bin\Debug\netcoreapp3.1\LAB 7 Regular Expression.dll
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\bin\Debug\netcoreapp3.1\LAB 7 Regular Expression.pdb
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\obj\Debug\netcoreapp3.1\LAB 7 Regular Expression.csprojAssemblyReference.cache
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\obj\Debug\netcoreapp3.1\LAB 7 Regular Expression.AssemblyInfoInputs.cache
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\obj\Debug\netcoreapp3.1\LAB 7 Regular Expression.AssemblyInfo.cs
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\obj\Debug\netcoreapp3.1\LAB 7 Regular Expression.dll
+C:\Users\nayan\source\repos\LAB 7 Regular Expression\LAB 7 Regular Expression\obj\Debug\netcoreapp3.1\LAB 7 Regular Expression.pdb
